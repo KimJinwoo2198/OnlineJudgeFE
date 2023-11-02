@@ -15,6 +15,7 @@ const languages = [
   {value: 'en-US', label: 'English', iv: ivenUS, el: elenUS},
   {value: 'zh-CN', label: '简体中文', iv: ivzhCN, el: elzhCN},
   {value: 'zh-TW', label: '繁體中文', iv: ivzhTW, el: elzhTW}
+  {value: 'ko-KR', label: '한국어', iv: ivzhKR, el: elzhKR}
 ]
 const messages = {}
 
