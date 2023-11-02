@@ -90,7 +90,7 @@ export const m = {
   Where_is_the_input_and_the_output_answer_part_8: 'C에서',
   Where_is_the_input_and_the_output_answer_part_9: 'C++에서 stdout에 쓰기 위해 사용할 수 있습니다. 사용자 프로그램은 파일 읽기나 쓰기가 허용되지 않습니다. 그렇게 하면',
   What_is_the_meaning_of_submission_execution_time: '제출 실행 시간의 의미는 무엇인가요?',
-  What_is_the_meaning_of_submission_execution_time_answer: '온라인 판사는 다양한 입력 파일로 여러 번 코드를 테스트할 수 있습니다. 코드가 각 입력 파일에 대해 시간 제한 내에 올바른 답을 제공하면, 표시되는 실행 시간은 각 테스트 케이스에 소요된 시간의 최대값입니다. 그렇지 않으면 실행 시간은 의미가 없습니다.',
+  What_is_the_meaning_of_submission_execution_time_answer: '온라인 저지는 다양한 입력 파일로 여러 번 코드를 테스트할 수 있습니다. 코드가 각 입력 파일에 대해 시간 제한 내에 올바른 답을 제공하면, 표시되는 실행 시간은 각 테스트 케이스에 소요된 시간의 최대값입니다. 그렇지 않으면 실행 시간은 의미가 없습니다.',
   How_Can_I_use_CPP_Int64: 'C++ Int64를 어떻게 사용하나요?',
   How_Can_I_use_CPP_Int64_answer_part_1: '다음과 같이 선언해야 합니다',
   How_Can_I_use_CPP_Int64_answer_part_2: '그리고 다음과 같이 사용',
@@ -102,11 +102,11 @@ export const m = {
   Java_specifications_answer_part_2: '클래스의 정적 main 메서드에서 시작해야 합니다. public 클래스를 사용하지 마세요: 심지어',
   Java_specifications_answer_part_3: '도 public이 아니어야 컴파일 오류를 피할 수 있습니다. 과도한 플러싱으로 인한 시간 초과를 피하려면 버퍼 I/O를 사용하세요.',
   About_presentation_error: '프레젠테이션 오류에 관해서는?',
-  About_presentation_error_answer_part_1: '이 oj에서는 프레젠테이션 오류가 없습니다. 판사는 출력의',
+  About_presentation_error_answer_part_1: '이 oj에서는 프레젠테이션 오류가 없습니다. 저지는 출력의',
   last: '마지막',
   About_presentation_error_answer_part_2: '라인의 빈칸과 줄바꿈을 제거합니다. 정답 출력과 여전히 다르다면 결과는',
   How_to_report_bugs: '이 oj에 관한 버그를 어떻게 보고하나요?',
-  How_to_report_bugs_answer_part_1: '온라인 판사는 오픈 소스이므로',
+  How_to_report_bugs_answer_part_1: '온라인 저지는 오픈 소스이므로',
   How_to_report_bugs_answer_part_2: '버그에 대한 세부 정보(환경, 버전 등)가 필요하며, 버그를 해결하는 데 많은 도움이 됩니다. 당연히, 당신의 풀 요청을 병합하는 것을 매우 기쁘게 생각합니다.',
    // Cancel.vue
   Cancel: '취소',
@@ -260,5 +260,4 @@ export const m = {
   UserHomeScore: '점수',
   List_Solved_Problems: '해결된 문제의 목록',
   UserHomeIntro: '이 사람은 너무 게으르기 때문에 아직 문제를 해결하지 않았습니다.'
-
 }
